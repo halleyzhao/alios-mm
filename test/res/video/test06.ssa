@@ -1,0 +1,102 @@
+﻿[Script Info]
+Title: PMC
+ScriptType: V4.00
+Original Script: Grapefruittea360@gmail.com
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[v4 Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,TertiaryColour,BackColour,Bold,Italic,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,AlphaLevel,Encoding
+Style: Default0,Arial,24,&HFFFFFF,&HFFFFFF,&H0,&H0,0,0,1,0,0,2,15,15,20,0,134
+[Events]
+Format: Marked,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
+Dialogue: Marked=0,0:00:05.82,0:00:08.18,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N坚持住\NThe No.13 subtitile: \NOh,hold on.
+Dialogue: Marked=0,0:00:08.25,0:00:09.98,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N我来了\NThe No.13 subtitile: \NI'm coming.
+Dialogue: Marked=0,0:00:14.99,0:00:17.38,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N在工作环境中好好利用\NThe No.13 subtitile: \NIncreased productivity
+Dialogue: Marked=0,0:00:17.46,0:00:20.59,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N人体功学  可以提高生产效率哦\NThe No.13 subtitile: \NThrough ergonomically beneficial surroundings.
+Dialogue: Marked=0,0:00:20.67,0:00:23.12,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N说到功能分化的精神\NThe No.13 subtitile: \NWell,in the spirit of ergonomy--
+Dialogue: Marked=0,0:00:23.20,0:00:24.76,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N有那个词儿吗\NThe No.13 subtitile: \NIs that even a word?
+Dialogue: Marked=0,0:00:24.84,0:00:26.83,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N功能分化是设备设计领域\NThe No.13 subtitile: \NErgonomy is the applied science
+Dialogue: Marked=0,0:00:26.90,0:00:28.60,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N的十三项应用技术  迈克\NThe No.13 subtitile: \NOf equipment design,michael.
+Dialogue: Marked=0,0:00:28.67,0:00:30.06,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N好吧\NThe No.13 subtitile: \NOkay.
+Dialogue: Marked=0,0:00:30.14,0:00:32.47,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N那么说到  变形的精神\NThe No.13 subtitile: \NWell,then in the spirit of...origami,
+Dialogue: Marked=0,0:00:32.55,0:00:34.90,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N你想过把你的后座\NThe No.13 subtitile: \NYou ever thinking about making your backseat
+Dialogue: Marked=0,0:00:34.98,0:00:35.87,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N变形成十三张床吗  凯特\NThe No.13 subtitile: \NInto a bed,kitt?
+Dialogue: Marked=0,0:00:35.95,0:00:38.84,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N我恐怕你会邀请陌生人过来哦\NThe No.13 subtitile: \NI'm afraid you'd be tempted to invite strangers.
+Dialogue: Marked=0,0:00:38.92,0:00:40.31,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N你是说"浪荡小妞"吧  凯特\NThe No.13 subtitile: \NYou mean "hoochies," kitt.
+Dialogue: Marked=0,0:00:40.39,0:00:41.99,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N行为不端的妇女  你说的没错\NThe No.13 subtitile: \NUndesirable females,yes.
+Dialogue: Marked=0,0:00:42.00,0:00:44.61,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N这个小宝贝  在扶手上\NThe No.13 subtitile: \NThis puppy has got a cooler
+Dialogue: Marked=0,0:00:44.69,0:00:46.98,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N装有冷柜哦\NThe No.13 subtitile: \NBuilt into the armrest
+Dialogue: Marked=0,0:00:47.06,0:00:50.28,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N还有大屏幕的遥控器呢\NThe No.13 subtitile: \NAnd a remote for the big screen.
+Dialogue: Marked=0,0:00:54.63,0:00:56.12,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N这可太棒了\NThe No.13 subtitile: \NThat is sweet.
+Dialogue: Marked=0,0:00:56.20,0:00:58.73,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N椅子应该放在那边\NThe No.13 subtitile: \NChair belongs on the other side.
+Dialogue: Marked=0,0:00:58.80,0:01:01.26,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N我喜欢它放这儿\NThe No.13 subtitile: \NI like it where it is.
+Dialogue: Marked=0,0:01:01.34,0:01:02.63,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N把它挪开  快点儿\NThe No.13 subtitile: \NMove it,stretch.
+Dialogue: Marked=0,0:01:02.71,0:01:04.47,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N中国的风水学里说明\NThe No.13 subtitile: \NThe chinese system of feng shui
+Dialogue: Marked=0,0:01:04.54,0:01:06.43,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N祖伊选的位置\NThe No.13 subtitile: \NWould indicate that zoe's placement
+Dialogue: Marked=0,0:01:06.51,0:01:08.50,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N能带来更好的气\NThe No.13 subtitile: \NProvides for better chi.
+Dialogue: Marked=0,0:01:08.58,0:01:09.87,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N你可真有禅意  凯特\NThe No.13 subtitile: \NVery zen of you,kitt.
+Dialogue: Marked=0,0:01:09.95,0:01:13.27,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N我们在这儿可以多用用东方哲学嘛\NThe No.13 subtitile: \NWe could use a little more eastern philosophy around here.
+Dialogue: Marked=0,0:01:13.35,0:01:14.61,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N听明白么  更好的气\NThe No.13 subtitile: \NSee? better chi.
+Dialogue: Marked=0,0:01:14.69,0:01:15.68,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N快点啊\NThe No.13 subtitile: \NChop chop.
+Dialogue: Marked=0,0:01:15.69,0:01:17.48,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N你顶谁的班当上领导了\NThe No.13 subtitile: \NWho died and made you boss?
+Dialogue: Marked=0,0:01:17.56,0:01:20.51,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N那肯定是阿莱克斯·托雷斯\NThe No.13 subtitile: \NThat would be alex torres.
+Dialogue: Marked=0,0:01:20.59,0:01:23.32,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N我发现你已经在享受休闲时光了啊\NThe No.13 subtitile: \Nhmm,I see you're already enjoying your downtime.
+Dialogue: Marked=0,0:01:23.40,0:01:26.45,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N我还没开始享受呢\NThe No.13 subtitile: \NOh,I have not yet begun to enjoy.
+Dialogue: Marked=0,0:01:26.53,0:01:27.72,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N有什么地方想去吗\NThe No.13 subtitile: \NGoing anywhere special?
+Dialogue: Marked=0,0:01:27.80,0:01:28.92,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N有啊\NThe No.13 subtitile: \NOh,yeah.
+Dialogue: Marked=0,0:01:29.00,0:01:30.99,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N有个小小的感性之旅\NThe No.13 subtitile: \NA little sentimental journey.
+Dialogue: Marked=0,0:01:31.07,0:01:32.13,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N等等  我们要去什么地方吗\NThe No.13 subtitile: \NWait,we get to go somewhere?
+Dialogue: Marked=0,0:01:32.20,0:01:33.83,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N-折扣商场  -做SPA去\NThe No.13 subtitile: \NOutlet mall.  spa day.
+Dialogue: Marked=0,0:01:33.91,0:01:35.99,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N你们在开玩笑  是吧\NThe No.13 subtitile: \NYou guys are kidding,right?
+Dialogue: Marked=0,0:01:36.00,0:01:37.53,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N我要隐忍  沉淀十三下自己\NThe No.13 subtitile: \NI'm going to get mellow and be zen.
+Dialogue: Marked=0,0:01:37.61,0:01:39.40,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N你是说"我们"  迈克\NThe No.13 subtitile: \NYou mean "we," michael.
+Dialogue: Marked=0,0:01:39.48,0:01:41.59,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N是我们  我们十三起去  凯特\NThe No.13 subtitile: \NYes,we. we are going,kitt.
+Dialogue: Marked=0,0:01:41.61,0:01:44.17,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N回去那个特别的\NThe No.13 subtitile: \NBack to a special place.
+Dialogue: Marked=0,0:01:44.24,0:01:45.70,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N充满魔力的地方\NThe No.13 subtitile: \NA magical place.
+Dialogue: Marked=0,0:01:45.78,0:01:47.03,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N我们自己的小欢乐窝\NThe No.13 subtitile: \NOur own little happy place.
+Dialogue: Marked=0,0:01:47.11,0:01:49.57,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N迈克要带我去十三个酒吧\NThe No.13 subtitile: \NMichael is taking me to a bar.
+Dialogue: Marked=0,0:01:49.65,0:01:50.97,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N谁会想去那儿啊\NThe No.13 subtitile: \NWho'd have thunk it?
+Dialogue: Marked=0,0:01:51.00,0:01:52.81,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N我想去酒吧\NThe No.13 subtitile: \NI want to go to a bar.
+Dialogue: Marked=0,0:01:52.89,0:01:54.76,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N可不是十三般的酒吧哦  是桑尼's\NThe No.13 subtitile: \Noh,no,not just any bar. sonny's.
+Dialogue: Marked=0,0:01:54.77,0:01:55.54,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N我知道了\NThe No.13 subtitile: \NOh,I get it.
+Dialogue: Marked=0,0:01:56.62,0:01:59.51,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N你爸带我过去  喝了我的第十三杯啤酒\NThe No.13 subtitile: \NYour dad took me there for my first beer.
+Dialogue: Marked=0,0:01:59.59,0:02:01.75,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N我爷爷也带我爸去喝过\NThe No.13 subtitile: \NAnd his dad took him there for his.
+Dialogue: Marked=0,0:02:01.83,0:02:04.05,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N是附近的十三个地方\NThe No.13 subtitile: \NIt's a neighborhood institution.
+Dialogue: Marked=0,0:02:04.13,0:02:06.25,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N十三杯冷佳酿  啤酒豆  现场音乐\NThe No.13 subtitile: \NA cold brew,beer nuts,live music.
+Dialogue: Marked=0,0:02:06.33,0:02:07.72,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N是桑尼·尼尔桑开的\NThe No.13 subtitile: \NRun by sonny nelson.
+Dialogue: Marked=0,0:02:07.80,0:02:09.72,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N是个好酒保  更是个好人\NThe No.13 subtitile: \NAmazing bartender,even better guy.
+Dialogue: Marked=0,0:02:09.80,0:02:11.06,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N我好几年没去了\NThe No.13 subtitile: \NI haven't been there in years,
+Dialogue: Marked=0,0:02:11.14,0:02:12.46,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N可我跟你说把  要想减压\NThe No.13 subtitile: \NBut I can tell you that there is no better place
+Dialogue: Marked=0,0:02:12.54,0:02:13.63,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N没别的地方比那儿更好了\NThe No.13 subtitile: \NTo de-stress.
+Dialogue: Marked=0,0:02:13.71,0:02:15.63,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N听着棒极了\NThe No.13 subtitile: \NSounds awesome.
+Dialogue: Marked=0,0:02:15.71,0:02:18.27,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N我确实肩负着极大的压力\NThe No.13 subtitile: \NI'm a veritable cornucopia of stress.
+Dialogue: Marked=0,0:02:18.34,0:02:20.07,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N我还记得\NThe No.13 subtitile: \NFrom what I remember,
+Dialogue: Marked=0,0:02:20.15,0:02:22.37,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N桑尼有个女儿\NThe No.13 subtitile: \NSonny had a daughter.
+Dialogue: Marked=0,0:02:22.45,0:02:24.04,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N是啊  茱莉 尼尔桑.\NThe No.13 subtitile: \NYeah,julie nelson.
+Dialogue: Marked=0,0:02:24.12,0:02:27.01,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N我想她上了医学院\NThe No.13 subtitile: \NShe went to med school I think
+Dialogue: Marked=0,0:02:27.09,0:02:28.34,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N在东部的什么地方\NThe No.13 subtitile: \NSomewhere back east.
+Dialogue: Marked=0,0:02:28.42,0:02:29.94,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N-没错  -玩的开心\NThe No.13 subtitile: \NRight. have a great time.
+Dialogue: Marked=0,0:02:30.02,0:02:32.45,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N你们也是  伙计们\NThe No.13 subtitile: \NYou too,guys.
+Dialogue: Marked=0,0:02:32.52,0:02:33.58,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N喂\NThe No.13 subtitile: \NHello!
+Dialogue: Marked=0,0:02:33.66,0:02:35.22,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N怎么啦\NThe No.13 subtitile: \NHi.
+Dialogue: Marked=0,0:02:35.29,0:02:36.95,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N我们最好告诉他\NThe No.13 subtitile: \NWe better tell him.
+Dialogue: Marked=0,0:02:37.03,0:02:38.39,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N不然他要崩溃了\NThe No.13 subtitile: \NOr else he might have a breakdown.
+Dialogue: Marked=0,0:02:38.46,0:02:41.12,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N拜托有人出来说句话啊\NThe No.13 subtitile: \NSomebody please say something.
+Dialogue: Marked=0,0:02:41.20,0:02:43.79,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N听着  我们正在轮班\NThe No.13 subtitile: \NLook,we're going on rotation.
+Dialogue: Marked=0,0:02:43.87,0:02:46.26,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N每个人都能轮到机会减压\NThe No.13 subtitile: \NEveryone's gonna get a chance to decompress.
+Dialogue: Marked=0,0:02:46.34,0:02:48.03,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N首先  迈克能休息几天\NThe No.13 subtitile: \NFirst,mike's gonna take a couple days.
+Dialogue: Marked=0,0:02:48.11,0:02:50.20,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N然后是你  然后是祖伊  然后是我\NThe No.13 subtitile: \NAnd then you,and then zoe,and then me.
+Dialogue: Marked=0,0:02:50.28,0:02:52.27,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N什么时候开始\NThe No.13 subtitile: \NWhen's this all gonna start?
+Dialogue: Marked=0,0:02:52.34,0:02:54.84,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N问你领导去吧\NThe No.13 subtitile: \NAsk your boss.
+Dialogue: Marked=0,0:02:54.91,0:02:56.40,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N好吧  十三点也不好笑\NThe No.13 subtitile: \NOkay,not funny.
+Dialogue: Marked=0,0:02:56.48,0:02:59.04,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N不  比利  很好笑啊\NThe No.13 subtitile: \NNo,billy,it was funny.
+Dialogue: Marked=0,0:04:04.20,0:04:05.99,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N比我印象中乱点儿\NThe No.13 subtitile: \NA little rougher than I remembered.
+Dialogue: Marked=0,0:04:06.03,0:04:07.96,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N我必须承认  我多少有点\NThe No.13 subtitile: \NI must admit,I'm somewhat concerned
+Dialogue: Marked=0,0:04:08.04,0:04:09.19,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N担心你  迈克\NThe No.13 subtitile: \NFor you,michael.
+Dialogue: Marked=0,0:04:09.27,0:04:11.36,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N我不会有事的  凯特  呆在这儿\NThe No.13 subtitile: \NI'll be okay,kitt. just stay close.
+Dialogue: Marked=0,0:04:11.44,0:04:12.56,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N要忍哦\NThe No.13 subtitile: \NAnd be zen.
+Dialogue: Marked=0,0:04:12.64,0:04:13.76,Default0,,0000,0000,0000,,{\b0\i0\bord1\3c&H0}{\fn微软雅黑}{\an2}第十三字幕：\N我会试试看\NThe No.13 subtitile: \NI will try.
