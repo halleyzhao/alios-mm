@@ -1,5 +1,0 @@
-EME has no API to store and release persistent key/license, need to add
-
-EME has no API for provision, marlin and widevine do not need API for provision, looks like EventIndividualizationRequest can be used for provision
-
-listener templete implementation, state machine for each sessions
